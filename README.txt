@@ -168,9 +168,10 @@ Discord Auto Reaction 是一个开源项目
 GitHub: https://github.com/Mitasul/discord-auto-reaction
 
 直接安装链接:
-https://github.com/Mitasul/discord-auto-reaction/raw/main/Discord%20Auto%20Reaction-4.8.0.user.js
+https://github.com/Mitasul/discord-auto-reaction/raw/main/Discord%20Auto%20Reaction-1.0.user.js
 
 欢迎使用、修改和分享!
 如果你对本脚本进行了二次修改,请保留原作者信息。
+
 
 感谢使用!
